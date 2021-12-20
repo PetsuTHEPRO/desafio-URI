@@ -32,7 +32,7 @@ hs_err_pid*
 *.pydevproject
 .project
 .metadata
-bin/**
+bin
 tmp/**
 tmp/**/*
 *.tmp
@@ -41,7 +41,7 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
-.settings/
+.settings
 .loadpath
 
 # External tool builders
